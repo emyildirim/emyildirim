@@ -37,7 +37,7 @@
 
 - 💬 Ask me about **JavaScript, C++ and Database Management**
 
-- 📫 How to reach me **metiny.ca@gmail.com**
+- 📫 How to reach me **erkammetiny@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
