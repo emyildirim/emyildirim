@@ -1,5 +1,5 @@
 <h1 align="center">Erkam Yildirim</h1>
-<h3 align="center">A passionate Software Dev student from Toronto</h3>
+<h3 align="center">A passionate Software Dev from Toronto</h3>
 
 <h3 align="left">🔧 Languages and Tools:</h3>
 <p align="left"> 
