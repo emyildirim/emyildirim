@@ -29,13 +29,13 @@
 
 <h3 align="left">About me</h3>
 
-- 🔭 I’m currently working on [PHR System API](https://github.com/emyildirim/BTP405/tree/main/project1)
+- 🔭 I’m currently working on [Meet-Web (Video Conferencing Website)](https://github.com/emyildirim/Meet-Web)
 
-- 🌱 I’m currently learning **React.js, Docker**
+- 🌱 I’m currently learning **WebRTC and socket.io**
 
 - 👯 I’m looking to collaborate on **Open-source software projects**
 
-- 💬 Ask me about **JavaScript, C++ and Database Management**
+- 💬 Ask me about **React, JavaScript, C++ and Database Management**
 
 - 📫 How to reach me **erkammetiny@gmail.com**
 
