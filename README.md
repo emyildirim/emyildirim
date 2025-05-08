@@ -1,7 +1,6 @@
 <h1 align="center">Erkam Yildirim</h1>
-<h3 align="center">A passionate Software Developer from Toronto</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emyildirim&label=Profile%20views&color=0037db&style=flat" alt="emyildirim" /> </p>
 
 <h3 align="left">About me</h3>
 
@@ -13,7 +12,7 @@
 
 - 💬 Ask me about **React, JavaScript, C++ and Database Management**
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/metin-ca/)
+- 📫 How to reach me: my [Portfolio](https://www.metiny.ca/) or [LinkedIn](https://www.linkedin.com/in/metin-ca/)
 <p>
 <a href="https://linkedin.com/in/metin-ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="metin-ca" height="30" width="40" /></a>
 <a href="https://instagram.com/metiny.ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="metiny.ca" height="30" width="40" /></a>
