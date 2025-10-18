@@ -4,9 +4,9 @@
 
 <h3 align="left">About me</h3>
 
-- 🔭 I’m currently working on [Meet-Web (Video Conferencing Website)](https://github.com/emyildirim/Meet-Web)
+- 🔭 I’m currently working on [Conbook (Book RPG Mobile)](https://github.com/emyildirim/conbook)
 
-- 🌱 I’m currently learning **WebRTC and socket.io**
+- 🌱 I’m currently learning **Flutter and Dart**
 
 - 👯 I’m looking to collaborate on **Open-source software projects**
 
